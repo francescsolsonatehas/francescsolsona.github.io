@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Ferran Aran
+author: Francesc Solsona
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -40,7 +40,7 @@ social-network-links:
   facebook: francesc.solsona
   github: francescsolsonatehas
   twitter: "@FrancescSolsona"
-  youtube: "@FrancescSolsonaTehas"
+  youtube: FrancescSolsonaTehas
   linkedin: francesc-solsona-309baba
 
 #  xing: yourname
